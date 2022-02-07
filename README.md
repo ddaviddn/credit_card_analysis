@@ -34,14 +34,6 @@ To run the whole analysis, the 4 .csv files (given at beginning of competition) 
 FILES
 
 -------------------------------------
-:CoverPage_ID_8:
-
-This is the separated cover page
-
-
--------------------------------------
-
--------------------------------------
 :preprocessing_ID_8.ipynb:
 
 This is the full preprocessing procedure we decided to run on the data. 
@@ -61,25 +53,6 @@ This is the combination of preprocessing and modeling into one python script (if
 There may be an issue with the current path, the path in the code needs to be changed before it successfully runs.
 
 On google colab's hardware, the script took 31.241 seconds to run.
-
-
--------------------------------------
-:Report_ID_8.pdf:
-
-As the name states, this is the report created for this project.
-
-
--------------------------------------
-:predictions_ID_8.csv:
-
-This is the model predictions that we came up with. 
-
-Dataframe of
-| ucfID | increase_amt | credit_line_amount | new_credit_line |
-
-increase_amt - our model's predicted increase amount
-credit_line_amount - the user's ORIGINAL credit line amount
-new_credit_line - the user's ADJUSTED credit line amount
 
 
 -------------------------------------
