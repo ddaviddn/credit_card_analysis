@@ -1,4 +1,4 @@
-# credit_card_analysis
+# credit_card_competition
 
 Purpose Statement: To classify risky credit card users and calculate their respective credit line increase.
 
